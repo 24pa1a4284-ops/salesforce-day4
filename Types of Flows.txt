@@ -1,0 +1,27 @@
+ Types of Flows
+
+## 1. Screen Flow
+
+Screen Flow is a flow that interacts with users through screens.
+
+Uses:
+- Collect user input
+- Forms and applications
+- Step-by-step processes
+
+Example:
+Student registration form.
+
+---
+
+## 2. Record Triggered Flow
+
+Record Triggered Flow runs automatically when a record is created, updated, or deleted.
+
+Uses:
+- Send automatic emails
+- Update records automatically
+- Automate business processes
+
+Example:
+Send confirmation email after student registration

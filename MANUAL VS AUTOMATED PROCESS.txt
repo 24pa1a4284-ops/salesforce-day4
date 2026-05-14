@@ -1,0 +1,11 @@
+MANUAL VS AUTOMATED PROCESS
+
+Manual Process:
+- Employee sends request manually
+- Manager checks manually
+- HR updates records manually
+
+Automated Process:
+- Request created automatically
+- Approval automated
+- Notification sent automatically

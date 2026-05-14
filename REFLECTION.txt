@@ -1,0 +1,4 @@
+REFLECTION
+
+Automation saves time and reduces manual work. 
+Salesforce Flow helps companies automate business processes without coding.

@@ -1,0 +1,17 @@
+FLOW DIAGRAM
+
+Student submits leave request
+        ↓
+Manager reviews request
+        ↓
+IF approved
+        ↓
+Leave status = Approved
+        ↓
+Email notification sent
+
+ELSE
+        ↓
+Leave status = Rejected
+        ↓
+Email notification sent

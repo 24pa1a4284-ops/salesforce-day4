@@ -1,0 +1,16 @@
+# What is Flow Builder?
+
+Flow Builder is a Salesforce automation tool used to automate business processes without coding.
+
+It helps businesses:
+- Save time
+- Reduce manual work
+- Improve productivity
+- Automate repetitive tasks
+
+Using Flow Builder, we can:
+- Create records
+- Update records
+- Send emails automatically
+- Make decisions
+- Build workflows visually

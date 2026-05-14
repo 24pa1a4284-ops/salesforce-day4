@@ -1,0 +1,49 @@
+# Automation Ideas
+
+## 1. Auto Email After Registration
+When a student registers, Salesforce automatically sends a confirmation email.
+
+### Why Automation Helps
+- Saves time
+- Faster communication
+- Reduces manual work
+
+---
+
+## 2. Auto Update Remaining Seats
+When a student joins a course, available seats update automatically.
+
+### Why Automation Helps
+- Prevents overbooking
+- Keeps data accurate
+- Faster management
+
+---
+
+## 3. Notify Faculty When Course is Full
+Salesforce sends notification to faculty when all seats are filled.
+
+### Why Automation Helps
+- Quick updates
+- Better course management
+- Saves staff effort
+
+---
+
+## 4. Generate Student ID Automatically
+System automatically creates a student ID after registration.
+
+### Why Automation Helps
+- Reduces errors
+- Faster process
+- Unique identification
+
+---
+
+## 5. Send Fee Deadline Reminder
+Students automatically receive reminders before the fee deadline.
+
+### Why Automation Helps
+- Improves payment tracking
+- Reduces missed deadlines
+- Saves administrative effort
